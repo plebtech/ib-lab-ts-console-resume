@@ -1,0 +1,21 @@
+{
+  "name": "lab-ts-console-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plebtech/ib-lab-ts-console-resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plebtech/ib-lab-ts-console-resume/issues"
+  },
+  "homepage": "https://github.com/plebtech/ib-lab-ts-console-resume#readme"
+}
